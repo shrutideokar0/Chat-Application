@@ -78,7 +78,6 @@ How It Works
 
 * **Server** (`nodeServer/index.js`)
 
-  * Uses Express to serve static files (optional)
   * Sets up a WebSocket server with Socket.io
   * Broadcasts messages to all connected clients
 
