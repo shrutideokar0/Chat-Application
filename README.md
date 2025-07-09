@@ -1,14 +1,13 @@
-# Chat-Application
-Got it! Here's your updated **README.md** — clean, detailed, and with **no deployment-related content**:
+Chat-Application
 
 ```markdown
-# 💬 Chat Application
+Chat Application
 
 A real‑time chat app built using **Node.js** and **Socket.io** on the backend, and **HTML, CSS, JavaScript** on the frontend.
 
 ---
 
-## ✨ Features
+Features
 
 - Real-time messaging with Socket.io
 - Simple and intuitive chat interface
@@ -17,7 +16,7 @@ A real‑time chat app built using **Node.js** and **Socket.io** on the backend,
 
 ---
 
-## 🏗️ Tech Stack
+Tech Stack
 
 | Layer     | Technologies                  |
 |-----------|-------------------------------|
@@ -27,7 +26,7 @@ A real‑time chat app built using **Node.js** and **Socket.io** on the backend,
 
 ---
 
-## 🗂️ Folder Structure
+Folder Structure
 
 ```
 
@@ -48,7 +47,7 @@ chat-application/
 
 ---
 
-## 🚀 How to Run Locally
+How to Run Locally
 
 1. **Clone the repository**
 
