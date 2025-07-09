@@ -3,7 +3,7 @@ Chat-Application
 ```markdown
 Chat Application
 
-A real‑time chat app built using **Node.js** and **Socket.io** on the backend, and **HTML, CSS, JavaScript** on the frontend.
+A real‑time chat app built using Node.js and Socket.io on the backend, and HTML, CSS, JavaScript on the frontend.
 
 ---
 
@@ -42,10 +42,7 @@ chat-application/
 │
 ├── .gitignore
 └── README.md
-
-````
-
----
+ ```
 
 How to Run Locally
 
@@ -77,15 +74,15 @@ How to Run Locally
 
 ---
 
-## 💡 How It Works
+How It Works
 
-* **Server** (`server/index.js`)
+* **Server** (`nodeServer/index.js`)
 
   * Uses Express to serve static files (optional)
   * Sets up a WebSocket server with Socket.io
   * Broadcasts messages to all connected clients
 
-* **Client** (`client/index.html`, `chat.js`)
+* **Client** (`js/index.html`, `client.js`)
 
   * Connects to server using Socket.io client
   * Sends and receives chat messages
